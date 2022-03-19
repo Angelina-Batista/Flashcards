@@ -13,11 +13,8 @@
 - [X] User can open the creation screen
 - [X] User can cancel out of the creation screen
 - [X] User can enter a new question and answer in the creation screen to then show it on the flashcard
-- [-] Push code to GitHub  
-      (I am having trouble pushing it to GitHub, I finished the Lab then I went to push the code but it told me to Pull first so I did and it deleted all
-      my code so I had to restart, but something went wrong with my new code so I need to get it checked in class quickly, but I want to show that I did 
-      do the lab so I included a gif of my Lab 2 to show that I did complete it)
-
+- [X] Push code to GitHub  
+     
 ## Optional
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
